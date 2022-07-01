@@ -2,6 +2,7 @@
 
 212. Start Maps App
 213. Create places context
+214. PlacesReducer - Context of our state
 
 # Good practices
 
