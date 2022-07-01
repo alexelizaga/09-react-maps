@@ -4,6 +4,7 @@
 213. Create places context
 214. PlacesReducer - Context of our state
 215. Get user geolocation
+216. Show user geolocation on screen
 
 # Good practices
 
@@ -23,6 +24,9 @@
 
 - TSX when the component export JSX
 - TS when the component doesn't export JSX
+
+## HomeScreen and MapView
+- Component starts with capital letter
 
 ## single quote vs doble quote
 - "" Just for html
