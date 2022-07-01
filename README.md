@@ -3,6 +3,7 @@
 212. Start Maps App
 213. Create places context
 214. PlacesReducer - Context of our state
+215. Get user geolocation
 
 # Good practices
 
@@ -25,3 +26,7 @@
 
 ## single quote vs doble quote
 - "" Just for html
+
+## useEffect
+- Can't be async
+- Just do one thing by useEffect
