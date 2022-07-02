@@ -7,6 +7,7 @@
 216. Show user geolocation on screen
 217. Show Mapbox map
 218. Create map context
+219. Set map in context
 
 # Good practices
 
