@@ -17,7 +17,7 @@ export const MapView = () => {
                 style: 'mapbox://styles/mapbox/streets-v11',
                 center: userLocation,
                 zoom: 14,
-                projection: { name: 'globe' }
+                projection: { name: 'globe' },
             });
         }
     }, [ isLoading ]);
