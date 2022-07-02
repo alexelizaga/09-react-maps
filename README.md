@@ -5,6 +5,7 @@
 214. PlacesReducer - Context of our state
 215. Get user geolocation
 216. Show user geolocation on screen
+217. Show Mapbox map
 
 # Good practices
 
@@ -15,8 +16,8 @@
 
 ## Short Lines Ascending ( shift + command/control + p)
 
+- Own imports, external imports ascending by importance
 - Atributes
-- Imports
 - Properties
 - Methods
 
