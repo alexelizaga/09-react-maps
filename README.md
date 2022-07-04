@@ -18,6 +18,7 @@
 227. Fly and activate the selected place
 228. DirectionsApi
 229. Try API from React
+230. Show the polyline on the map
 
 # Good practices
 
