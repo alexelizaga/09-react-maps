@@ -13,6 +13,7 @@
 222. SearchBar and manual debounce
 223. Search location by a query search
 224. Set the data type and store it in the state
+225. Show places found
 
 # Good practices
 
