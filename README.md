@@ -8,6 +8,7 @@
 217. Show Mapbox map
 218. Create map context
 219. Set map in context
+220. Bookmarks, popups and location button
 
 # Good practices
 
