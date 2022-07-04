@@ -16,6 +16,7 @@
 225. Show places found
 226. Place markers at each location found
 227. Fly and activate the selected place
+228. DirectionsApi
 
 # Good practices
 
