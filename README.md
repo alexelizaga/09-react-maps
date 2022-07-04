@@ -12,6 +12,7 @@
 221. Show react logo
 222. SearchBar and manual debounce
 223. Search location by a query search
+224. Set the data type and store it in the state
 
 # Good practices
 
@@ -41,3 +42,8 @@
 ## useEffect
 - Can't be async
 - Just do one thing by useEffect
+
+## interfaces
+- First letter of the name of the interface is capital
+- No index.ts for interfaces
+- use https://quicktype.io to generate response interfaces
