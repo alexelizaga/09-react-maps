@@ -9,6 +9,7 @@
 218. Create map context
 219. Set map in context
 220. Bookmarks, popups and location button
+221. Show react logo
 
 # Good practices
 
