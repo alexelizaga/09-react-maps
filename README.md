@@ -17,6 +17,7 @@
 226. Place markers at each location found
 227. Fly and activate the selected place
 228. DirectionsApi
+229. Try API from React
 
 # Good practices
 
