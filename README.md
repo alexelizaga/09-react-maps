@@ -10,6 +10,7 @@
 219. Set map in context
 220. Bookmarks, popups and location button
 221. Show react logo
+222. SearchBar and manual debounce
 
 # Good practices
 
