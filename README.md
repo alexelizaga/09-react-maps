@@ -15,6 +15,7 @@
 224. Set the data type and store it in the state
 225. Show places found
 226. Place markers at each location found
+227. Fly and activate the selected place
 
 # Good practices
 
