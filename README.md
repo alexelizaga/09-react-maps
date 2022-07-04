@@ -11,6 +11,7 @@
 220. Bookmarks, popups and location button
 221. Show react logo
 222. SearchBar and manual debounce
+223. Search location by a query search
 
 # Good practices
 

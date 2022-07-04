@@ -1,6 +1,10 @@
-import { ChangeEvent, useRef } from 'react';
+import { ChangeEvent, useRef, useContext } from 'react';
+
+import { PlacesContext } from '../context';
 
 export const SerchBar = () => {
+
+    const { searchPlacesByTerm } = useContext(PlacesContext);
 
     const debounceRef = useRef<NodeJS.Timeout>();
 
@@ -9,9 +13,8 @@ export const SerchBar = () => {
             clearTimeout( debounceRef.current );
         }
         debounceRef.current = setTimeout( () => {
-            // TODO: search
-            console.log('debounced value:', event.target.value);
-        }, 350 );
+            searchPlacesByTerm( event.target.value );
+        }, 500 );
     }
 
     return (
