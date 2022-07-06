@@ -39,8 +39,9 @@
 - TSX when the component export JSX
 - TS when the component doesn't export JSX
 
-## HomeScreen and MapView
+## Components
 - Component starts with capital letter
+- Try allways to do functions outside functional components
 
 ## single quote vs doble quote
 - "" Just for html
